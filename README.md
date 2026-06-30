@@ -36,9 +36,16 @@ Resume bullet: [Your bullet here]
 
 Saturday 2 - Joiner Workflow
 HR source connector configuration (screenshot or XML snippet)
+<img width="2553" height="957" alt="image" src="https://github.com/user-attachments/assets/a61527fe-13f4-45ec-aa46-de06092a144c" />
+
 Correlation rule definition (screenshot or XML snippet)
+<img width="2547" height="929" alt="image" src="https://github.com/user-attachments/assets/bc8ada43-b9ca-4aa4-8a1b-f233636a4ac0" />
+
 Inbound mapping table (screenshot)
+<img width="2475" height="1062" alt="image" src="https://github.com/user-attachments/assets/7cb879d7-17f8-4d74-848f-eb6ca5ecab94" />
+
 Screenshot: New Joiner account in OpenLDAP after reconciliation
+
 
 What I built: [Fill in - 2 sentences max]
 
