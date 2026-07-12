@@ -45,7 +45,7 @@ Inbound mapping table (screenshot)
 <img width="2475" height="1062" alt="image" src="https://github.com/user-attachments/assets/7cb879d7-17f8-4d74-848f-eb6ca5ecab94" />
 
 Screenshot: New Joiner account in OpenLDAP after reconciliation
-
+<img width="2559" height="1196" alt="image" src="https://github.com/user-attachments/assets/f9f0397c-486f-45d5-8ea0-18b0d886fdc5" />
 
 What I built: [Fill in - 2 sentences max]
 
