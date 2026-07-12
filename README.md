@@ -47,10 +47,9 @@ Inbound mapping table (screenshot)
 Screenshot: New Joiner account in OpenLDAP after reconciliation
 <img width="2559" height="1196" alt="image" src="https://github.com/user-attachments/assets/f9f0397c-486f-45d5-8ea0-18b0d886fdc5" />
 
-What I built: [Fill in - 2 sentences max]
+What I built: I connected an HR application as a CSV authoritative source with inbound mappings and correlation, automatically created six identities in the IGA platform, connected OpenLDAP as a target with outbound mappings, and provisioned all users into ou=people through the Employee role and object template. I also tested live joiner and leaver scenarios, moved an employee to ou=inactive instead of deleting the employee, discovered an orphan service account through reconciliation, and confirmed a full timestamped audit trail.
 
-Resume bullet: [Your bullet here]
-
+Resume bullet: Built an end-to-end IGA IAM lifecycle lab integrating an HR application CSV as an authoritative source and OpenLDAP as a target, automating joiner, leaver and reconciliation workflows through inbound/outbound mappings, correlation, role-based provisioning, inactive account handling, orphan account discovery and full audit trail validation.
 
 Saturday 3 - Mover and Leaver Workflows
 Role definitions created (screenshot or XML snippet)
@@ -58,10 +57,9 @@ Mover workflow configuration (screenshot)
 Screenshot: Robert Klein account disabled/deleted after leaver trigger
 Reconciliation results (screenshot)
 
-What I built: [Fill in - 2 sentences max]
+What I built: I built a department-based role automation in midPoint by creating Engineering, HR and Contractor roles, configuring auto-assignment rules, testing a mover scenario for an employee, and confirming that department changes were correctly removed and the right access was added for the employee. I also tested a manual access request and approval for the Contractor role, and observed access certification after a department move.
 
-Resume bullet: [Your bullet here]
-
+Resume bullet: Configured midPoint role-based access automation by creating department-specific and requestable roles, implementing conditional auto-assignment mappings, testing mover workflow reconciliation, preserving manually approved contractor access, and validating access certification review after a department change.
 
 Saturday 4 - Access Management
 Auth0 OIDC application configuration (screenshot)
